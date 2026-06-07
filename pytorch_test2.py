@@ -11,3 +11,5 @@ if torch.cuda.is_available():
     print("성공: GPU에서 연산이 정상적으로 수행되었습니다.")
 else:
     print("실패: GPU를 사용할 수 없는 상태입니다.")
+
+# test_2
